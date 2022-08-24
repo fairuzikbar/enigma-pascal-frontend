@@ -1,0 +1,54 @@
+{
+  "anime": [
+    {
+      "name": "Albert Einstein",
+      "skill": "Penemu Relativitas",
+      "img": "http://assets.kompasiana.com/items/album/2022/03/31/foto-einstein-6244d8e8d223596aa146f642.jpeg"
+    },
+    {
+      "name": "Isaac Newton",
+      "skill": "Penemu Gravitasi",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
+    },
+    {
+      "name": "Schrödinger",
+      "skill": "Pararel Universe",
+      "img": "https://www.bbvaopenmind.com/wp-content/uploads/2016/01/bbva-openmind-schrodinger-3.jjpg_-1.jpg"
+    },
+    {
+      "name": "Niels Bohr",
+      "skill": "Teori Atom Bohr",
+      "img": "https://www.sapaviva.com/wp-content/uploads/2017/06/59S.-Niels-Bohr-1885-1962.jpg"
+    },
+    {
+      "name": "Marie Curie",
+      "skill": "Penemu Radioaktif",
+      "img": "http://i.huffpost.com/gen/1225472/thumbs/o-WOMEN-NOBEL-PRIZE-facebook.jpg"
+    },
+    {
+      "name": "Thomas Alfa Edison",
+      "skill": "Penemu Arus DC",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg"
+    },
+    {
+      "name": "Nikola Tesla",
+      "skill": "Penemu Arus AC",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/N.Tesla.JPG/800px-N.Tesla.JPG"
+    },
+    {
+      "name": "Galileo Galilei",
+      "skill": "Astronomi Observatory",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/330px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
+    },
+    {
+      "name": "Wright Bersaudara",
+      "skill": "Pesawat Terbang",
+      "img": "https://www.biography.com/.image/t_share/MTY1OTEzODEwNTk3NTg1OTg3/-wilbur-and-orville-wright-photo-by--underwood--underwoodcorbiscorbis-via-getty-images.jpg"
+    },
+    {
+      "name": "Michael Faraday",
+      "skill": "Penemu Hukum Faraday",
+      "img": "https://www.thoughtco.com/thmb/LUGMGz1JbXaDiMz-J9cF-lMjvoo=/2000x1363/filters:fill(auto,1)/michaelfaraday-b2dd199f63f94ae5a2f0ad9cb510765a.png"
+    }
+  ]
+}
